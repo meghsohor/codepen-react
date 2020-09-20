@@ -2,7 +2,7 @@
 
 ### Built using:
  - React Hooks (useState, useEffect)
- - Custom Hook
+ - Custom Hook (to store data in localStorage)
  - CodeMirror [npm](https://www.npmjs.com/package/codemirror)
  - Font Awesome
 
