@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codepen-react/static/css/main.c5db9cf5.chunk.css",
+    "main.js": "/codepen-react/static/js/main.ca70a0ae.chunk.js",
+    "main.js.map": "/codepen-react/static/js/main.ca70a0ae.chunk.js.map",
+    "runtime-main.js": "/codepen-react/static/js/runtime-main.97eaacb3.js",
+    "runtime-main.js.map": "/codepen-react/static/js/runtime-main.97eaacb3.js.map",
+    "static/css/2.e980ac4b.chunk.css": "/codepen-react/static/css/2.e980ac4b.chunk.css",
+    "static/js/2.50aceed2.chunk.js": "/codepen-react/static/js/2.50aceed2.chunk.js",
+    "static/js/2.50aceed2.chunk.js.map": "/codepen-react/static/js/2.50aceed2.chunk.js.map",
+    "index.html": "/codepen-react/index.html",
+    "precache-manifest.4cf0640f72b5e6cb8b0ee16f7f6120f3.js": "/codepen-react/precache-manifest.4cf0640f72b5e6cb8b0ee16f7f6120f3.js",
+    "service-worker.js": "/codepen-react/service-worker.js",
+    "static/css/2.e980ac4b.chunk.css.map": "/codepen-react/static/css/2.e980ac4b.chunk.css.map",
+    "static/css/main.c5db9cf5.chunk.css.map": "/codepen-react/static/css/main.c5db9cf5.chunk.css.map",
+    "static/js/2.50aceed2.chunk.js.LICENSE.txt": "/codepen-react/static/js/2.50aceed2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97eaacb3.js",
+    "static/css/2.e980ac4b.chunk.css",
+    "static/js/2.50aceed2.chunk.js",
+    "static/css/main.c5db9cf5.chunk.css",
+    "static/js/main.ca70a0ae.chunk.js"
+  ]
+}
