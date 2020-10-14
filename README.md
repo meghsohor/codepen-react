@@ -8,4 +8,6 @@
 
 #### Live: https://meghsohor.github.io/codepen-react/
 
+##### Credit to Kyle for his awesome tutorial at [Youtube](https://www.youtube.com/watch?v=wcVxX7lu2d4)
+
 ![Codepen clone app created in React](https://meghsohor.github.io/codepen-react/codepen.jpg)
